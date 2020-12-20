@@ -10,7 +10,7 @@ Download or Clone the repository to your local system using GitHub.com, GitHub D
 
 Made with Linux and Shell Command Language.
 
-Check IP Addresses of Connected Devices in a Network is re-runnable. Run the Shell Script called run.sh located within the project's folder as administrator. The program requires ping to be installed.
+Check IP Addresses of Connected Devices in a Network is re-runnable. Run the Shell Script called run.sh with two IP addresses as arguments as administrator. It is located within the project's folder. The program requires ping to be installed.
 
 Some connected devices in the network may not respond within 1 second, but may still be active devices. To change the deadline you can change the -w timeout value of the ping command. To change the number of packets sent, you can change the -c count value.
 

@@ -1,1 +1,1 @@
-./src/check-ip-addresses-of-connected-devices-on-network.sh
+./src/check-ip-addresses-of-connected-devices-on-network.sh "$1" "$2"
